@@ -1,0 +1,29 @@
+.pp{
+    
+   margin:1px;
+    background-color: #333;
+    color: #fff;
+}
+.product{
+    background-color: #EA5A00;
+    color: #fff;
+    height: 30px;
+    width:160px;
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    text-decoration: underline;
+    font-weight: 700;
+}
+h6{
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn{
+    background-color: #EA5A00;
+    color: #fff; 
+}
+.list{
+    font-size: 18px;
+}
